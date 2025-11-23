@@ -1,0 +1,7 @@
+name = "mayberry-cdn-worker"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+routes = [
+  { pattern = "cdn.mayberryminitrucks.com/*", zone_name = "mayberryminitrucks.com" }
+]
