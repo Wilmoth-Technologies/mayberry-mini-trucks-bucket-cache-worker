@@ -1,5 +1,5 @@
 name = "mayberry-cdn-worker"
-main = "src/index.js"
+main = "src/bucket-cache.js"
 compatibility_date = "2025-01-01"
 
 routes = [
