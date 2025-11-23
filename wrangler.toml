@@ -1,4 +1,4 @@
-name = "mayberry-cdn-worker"
+name = "mayberry-mini-trucks-cache-worker"
 main = "src/bucket-cache.js"
 compatibility_date = "2025-01-01"
 
